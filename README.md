@@ -8,3 +8,9 @@ https://balta.io/blog/csharp-manipulacao-arquivos?utm_source=YouTube&utm_campaig
 ## Link para acessar vídeo tutorial sobre o artigo
 
 https://youtu.be/OBDi3qgnHNM
+
+## Removendo pastas
+
+rm -rf bin obj (bash)
+
+git commit -am
